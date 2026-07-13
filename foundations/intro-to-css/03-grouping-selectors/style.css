@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.left {
+background-color: #000000;
+color: hsl(0, 0%, 100%);
+}
+
+.right {
+    background-color: rgb(255, 255, 0);
+}
+
+.left, .right {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
